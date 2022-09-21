@@ -1,0 +1,9 @@
+# Ignore SBT project-specific cache directory
+.bsp
+.idea
+
+# Ignore meta-data file of Finder application in MacOS
+.DS_Store
+
+# Ignore SBT build output directory
+target
